@@ -15,7 +15,6 @@ AI workloads, particularly model training, may require dense clusters of acceler
 - **NPU:** Specialized neural-network accelerator, often designed for efficient inference. It does not literally recreate the brain's pathways.
 - **TPU:** Google's custom AI accelerator family for tensor-intensive machine learning.
 
-Sources: [IBM HPC](https://www.ibm.com/think/topics/hpc), [IBM AI accelerators](https://www.ibm.com/think/topics/ai-accelerator).
 
 ## 3. Memory, storage, and virtualization
 - **SSD:** Persistent NAND-flash storage. **NVMe** is a high-performance interface/protocol commonly used for SSD access.
